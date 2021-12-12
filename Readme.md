@@ -4,8 +4,7 @@
  Pozmieniam tu co nie co aby zobaczyc jak to dziala
  Dodam sobie jeszcze jeden komicik
 
-
-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
+!!! uwazaj na newralgiczne dane !!!
 
 #petelka w python
 x = 0
